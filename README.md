@@ -17,7 +17,7 @@ Clone this repository to your local machine using:
 
 bash
 Copy code
-git clone https://github.com/your-username/feedback-app.git
+git clone https://github.com/bhargav-08/feedback-app
 Navigate to the project directory:
 
 ```
