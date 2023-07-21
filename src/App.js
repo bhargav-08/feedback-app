@@ -38,14 +38,8 @@ function App() {
                     handleDelete={handleDelete}
                   />
                 </div> */}
-              <Route
-                path='/about'
-                element={<About />}
-              />
-              <Route
-                path='/post/*'
-                element={<Post />}
-              />
+              <Route path='/about' element={<About />} />
+              <Route path='/post/*' element={<Post />} />
             </Routes>
           </Router>
         </div>
